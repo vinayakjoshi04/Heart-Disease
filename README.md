@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Developer: [Vinayak Joshi](https://github.com/vinayakjoshi04)
 
-For questions or collaboration opportunities, please reach out through GitHub or [your-email@example.com](mailto:your-email@example.com).
+For questions or collaboration opportunities, please reach out through GitHub.
 
 ## 🙏 Acknowledgments
 
