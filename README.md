@@ -106,11 +106,7 @@ print(f"Probability: {probability[0][1]:.2f}")
 
 The Logistic Regression model achieved the following performance metrics:
 
-- **Accuracy**: [Your accuracy score]
-- **Precision**: [Your precision score]
-- **Recall**: [Your recall score]
-- **F1 Score**: [Your F1 score]
-- **AUC-ROC**: [Your AUC-ROC score]
+- **Accuracy**: 49%
 
 ### Model Validation
 The model was validated using k-fold cross-validation to ensure reliable performance across different data subsets.
